@@ -19,16 +19,16 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓 Pursuing **BTech in AI/ML** at CSPIT (Charotar University) alongside **BS in Data Science & Applications** at **IIT Madras** — one of the few students doing both simultaneously
-- ⚡ Passionate about building end-to-end AI systems — from research to deployment
+- Pursuing **BTech in AI/ML** at CSPIT (Charotar University) alongside **BS in Data Science & Applications** at **IIT Madras** — one of the few students doing both simultaneously
+- Passionate about building end-to-end AI systems — from research to deployment
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔋 [Arka Energy Nexus](https://github.com/hitarth1812/arka-energy-nexus)
+### [Arka Energy Nexus](https://github.com/hitarth1812/arka-energy-nexus)
 > Full-stack energy auditing & ESG intelligence platform
 
 - Django REST Framework backend · React + Vite + Tailwind CSS frontend
@@ -38,7 +38,7 @@
 
 ---
 
-### 🫁 [X-Ray Pathology Classifier](https://github.com/hitarth1812/xray-pathology-classifier)
+### [X-Ray Pathology Classifier](https://github.com/hitarth1812/xray-pathology-classifier)
 > Multi-label chest X-ray classification across 20 thoracic pathologies
 
 - EfficientNet-B0 with custom two-layer MLP head · Transfer learning (two-phase frozen → fine-tune)
@@ -46,7 +46,7 @@
 - Mixed precision training (AMP) on Tesla T4 · Val Macro-AUC: **0.8114**
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
