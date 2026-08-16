@@ -37,7 +37,7 @@ research and backend infrastructure in Go.
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 [X-Ray Pathology Classifier](https://github.com/hitarth1812/X-ray-pathology-classifier)
+### [X-Ray Pathology Classifier](https://github.com/hitarth1812/X-ray-pathology-classifier)
 Multi-label classification across 20 thoracic pathologies.
 
 - EfficientNet-B0 + custom two-layer MLP head
@@ -51,7 +51,7 @@ Multi-label classification across 20 thoracic pathologies.
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [Arka Energy Nexus](https://github.com/hitarth1812/arka-energy-nexus)
+### [Arka Energy Nexus](https://github.com/hitarth1812/arka-energy-nexus)
 Full-stack energy auditing & ESG intelligence platform.
 
 - Django REST backend · React + Vite + Tailwind frontend
@@ -67,7 +67,7 @@ Full-stack energy auditing & ESG intelligence platform.
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ Concrete Crack Detection
+### [Crack Detection](https://github.com/hitarth1812/Crack-Detection)
 Structural defect classification for infrastructure inspection.
 
 - EfficientNet-B0 transfer learning
@@ -79,7 +79,7 @@ Structural defect classification for infrastructure inspection.
 </td>
 <td width="50%" valign="top">
 
-### 💬 [Comment Category Prediction](https://github.com/hitarth1812)
+### [Comment Category Prediction](https://github.com/hitarth1812)
 Multi-class NLP classification pipeline.
 
 - Transformer-based text classification
