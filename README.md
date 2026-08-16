@@ -139,9 +139,6 @@ Multi-class NLP classification pipeline.
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=hitarth1812&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitarth1812&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
-
 <img src="https://streak-stats.demolab.com/?user=hitarth1812&hide_border=true&theme=tokyonight"/>
 
 </div>
