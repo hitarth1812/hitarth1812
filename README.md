@@ -71,7 +71,7 @@ Multi-label classification across 20 thoracic pathologies (NIH ChestX-ray14).
 </td>
 <td width="50%" valign="top">
 
-### Plant Super-Resolution GAN
+### [Plant Super-Resolution GAN](https://github.com/hitarth1812/Plants_Super_Resolution)
 ESRGAN-style SR model built for a competition.
 
 - RRDB generator (16–23 blocks) + PatchGAN discriminator
