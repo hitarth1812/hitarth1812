@@ -1,7 +1,15 @@
 <div align="center">
 
-<!-- ANIMATED WAVING HEADER BANNER (FIXED URL SYNTAX) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=210&section=header&text=Hitarth%20Khatiwala&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI/ML%20Researcher%20%7C%20Deep%20Learning%20%26%20Distributed%20Systems&descSize=18&descColor=a9b1d6&descAlignY=58&animation=fadeIn" alt="Header Banner" />
+<!-- 100% UPTIME HERO BANNER (POWERED BY DEMOLAB SVG ENGINE — ZERO VERCEL DOWNTIME) -->
+<a href="https://github.com/hitarth1812">
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=4000&pause=60000&color=FFFFFF&background=1A1B26&center=true&vCenter=true&repeat=false&width=900&height=115&lines=Hitarth+Khatiwala" alt="Hitarth Khatiwala Banner" />
+</a>
+
+<!-- SUBTITLE BANNER BAR -->
+<p>
+  <img src="https://img.shields.io/badge/AI%2FML_Researcher-1a1b26?style=for-the-badge&labelColor=1a1b26&color=7aa2f7" alt="AI/ML Researcher" />
+  <img src="https://img.shields.io/badge/Deep_Learning_%26_Distributed_Systems-1a1b26?style=for-the-badge&labelColor=1a1b26&color=24283b" alt="Deep Learning & Distributed Systems" />
+</p>
 
 <p>
   <code>BTech AI/ML @ CSPIT, CHARUSAT</code> &nbsp;•&nbsp; <code>BS Data Science &amp; Applications @ IIT Madras</code>
@@ -45,17 +53,32 @@ Concurrent Dual Degree:
   ├─ BTech in AI & ML        ──► CSPIT, CHARUSAT
   └─ BS in Data Science      ──► IIT Madras
 
-Engineering & Research Topology:
-  ├─ [Track 01 · AI/ML Research]
-  │   ├─ SVNIT Research      ──► Mamba SSMs for Spatio-Temporal Video Forgery Detection
-  │   ├─ ISBM 2026 Springer  ──► Fine-Tuned BERT Clinical NLP (Lead Author)
-  │   ├─ Medical Imaging     ──► ChestX-ray14 (EffNet-B0 + Sqrt-ASL + GradCAM · 0.8114 AUC)
-  │   └─ Generative Vision   ──► Plant Super-Resolution (RRDB ESRGAN + PatchGAN + 8x TTA)
-  │
-  └─ [Track 02 · Distributed Systems & Tooling]
-      ├─ ATLAS Platform      ──► Staged Go Microservices + AWS KMS/Secrets + Terraform IaC
-      ├─ AI-Gate Engine      ──► Sub-Second AST, Secret & Dependency Gate for AI Agents/CI
-      └─ Arka Energy Nexus   ──► Full-Stack ESG & Carbon Auditing Platform (Django + React)
+Engineering & Research Domains:
+  ├─ [Track 01 · AI/ML Research]   State-Space Models (Mamba) · Video Forensics · Medical CV · Clinical NLP
+  └─ [Track 02 · Systems & Infra]  Staged Go Microservices · Zero-Trust AWS KMS/IaC · Deterministic AST Gates
+```
+
+### Research & Engineering Ecosystem
+
+```mermaid
+flowchart LR
+    ROOT(("Hitarth Khatiwala"))
+
+    ROOT --> DL["AI / ML Research"]
+    ROOT --> SYS["Systems & Cloud Infra"]
+
+    subgraph Track_1 ["Deep Learning & Forensics"]
+        DL --> MAMBA["SVNIT Research<br/>Mamba Video Forensics"]
+        DL --> XRAY["ChestX-ray14<br/>EffNet + ASL + GradCAM"]
+        DL --> GAN["Plant SR<br/>RRDB ESRGAN + PatchGAN"]
+        DL --> BERT["ISBM 2026 Springer<br/>Fine-Tuned BERT NLP"]
+    end
+
+    subgraph Track_2 ["Distributed Systems & Tooling"]
+        SYS --> ATLAS["ATLAS Org<br/>Go + AWS KMS + Terraform"]
+        SYS --> AIGATE["AI-Gate Engine<br/>Sub-Second AST & Secret Gate"]
+        SYS --> ARKA["Arka Energy Nexus<br/>Django REST + React ESG"]
+    end
 ```
 
 ---
@@ -234,7 +257,8 @@ Engineering & Research Topology:
 
 **Open to:** Deep Learning Research Collaborations · Applied ML & Distributed Systems Roles · State-Space & Forensics Discussions
 
-<!-- ANIMATED WAVING FOOTER BANNER (FIXED URL SYNTAX) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=110&section=footer&text=Architect%20systems%20that%20scale.%20Train%20models%20that%20generalize.&fontSize=18&fontColor=ffffff&fontAlignY=65" alt="Footer Banner" />
+<a href="https://github.com/hitarth1812">
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=60000&color=7AA2F7&background=1A1B26&center=true&vCenter=true&repeat=false&width=900&height=65&lines=Architect+systems+that+scale.+Train+models+that+generalize." alt="Footer Banner" />
+</a>
 
 </div>
