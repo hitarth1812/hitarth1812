@@ -1,15 +1,15 @@
 <div align="center">
 
-<h1>Hitarth Khatiwala</h1>
+<!-- ANIMATED WAVING HEADER BANNER (FIXED URL SYNTAX) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=210&section=header&text=Hitarth%20Khatiwala&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI/ML%20Researcher%20%7C%20Deep%20Learning%20%26%20Distributed%20Systems&descSize=18&descColor=a9b1d6&descAlignY=58&animation=fadeIn" alt="Header Banner" />
 
 <p>
-  <b>AI/ML Researcher &nbsp;·&nbsp; Deep Learning &amp; Distributed Systems</b><br/>
   <code>BTech AI/ML @ CSPIT, CHARUSAT</code> &nbsp;•&nbsp; <code>BS Data Science &amp; Applications @ IIT Madras</code>
 </p>
 
-<!-- DYNAMIC TYPING TERMINAL (CALIBRATED WIDTH & CHARACTER COUNT — ZERO CLIPPING) -->
+<!-- DYNAMIC TYPING TERMINAL (CALIBRATED WIDTH — ZERO CLIPPING) -->
 <a href="https://github.com/hitarth1812">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=760&height=45&lines=State-Space+Models+(Mamba)+%C2%B7+Video+Forensics+@+SVNIT;Architecting+ATLAS+%C2%B7+Distributed+Go+Microservices;Lead+Author+@+ISBM+2026+(Springer+Nature);Dataset+Design+%E2%86%92+Architecture+%E2%86%92+Training+%E2%86%92+Cloud+IaC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=760&height=45&lines=State-Space+Models+(Mamba)+%7C+Video+Forensics+@+SVNIT;Architecting+ATLAS+%7C+Distributed+Go+Microservices;Lead+Author+@+ISBM+2026+(Springer+Nature);Dataset+Design+-%3E+Architecture+-%3E+Training+-%3E+Cloud+IaC" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -74,7 +74,7 @@ Engineering & Research Topology:
       <p>
         <img src="https://img.shields.io/badge/Status-Selected%20for%20Proceedings-2ea44f?style=flat-square" />
         <img src="https://img.shields.io/badge/Role-First%20%2F%20Lead%20Author-7aa2f7?style=flat-square" />
-        <img src="https://img.shields.io/badge/Architecture-BERT%20%C2%B7%20Transformers%20%C2%B7%20PyTorch-EE4C2C?style=flat-square" />
+        <img src="https://img.shields.io/badge/Architecture-BERT%20%7C%20Transformers%20%7C%20PyTorch-EE4C2C?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -130,7 +130,7 @@ Engineering & Research Topology:
 
 <p>
   <a href="https://github.com/hitarth1812"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github" height="24"/></a>
-  <img src="https://img.shields.io/badge/Python%20%C2%B7%20Go%20%C2%B7%20AST%20%C2%B7%20CI/CD-24283b?style=for-the-badge&logoColor=white" height="24"/>
+  <img src="https://img.shields.io/badge/Python%20%7C%20Go%20%7C%20AST%20%7C%20CI/CD-24283b?style=for-the-badge&logoColor=white" height="24"/>
 </p>
 
 </td>
@@ -160,7 +160,7 @@ Engineering & Research Topology:
 
 <p>
   <a href="https://github.com/hitarth1812/Plants_Super_Resolution"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github" height="24"/></a>
-  <img src="https://img.shields.io/badge/PyTorch%20%C2%B7%20ESRGAN%20%C2%B7%20Computer_Vision-24283b?style=for-the-badge" height="24"/>
+  <img src="https://img.shields.io/badge/PyTorch%20%7C%20ESRGAN%20%7C%20Computer_Vision-24283b?style=for-the-badge" height="24"/>
 </p>
 
 </td>
@@ -174,7 +174,7 @@ Engineering & Research Topology:
 
 <p>
   <a href="https://github.com/hitarth1812/arka-energy-nexus"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github" height="24"/></a>
-  <img src="https://img.shields.io/badge/Django_REST%20%C2%B7%20React%20%C2%B7%20Pandas-24283b?style=for-the-badge" height="24"/>
+  <img src="https://img.shields.io/badge/Django_REST%20%7C%20React%20%7C%20Pandas-24283b?style=for-the-badge" height="24"/>
 </p>
 
 </td>
@@ -234,6 +234,7 @@ Engineering & Research Topology:
 
 **Open to:** Deep Learning Research Collaborations · Applied ML & Distributed Systems Roles · State-Space & Forensics Discussions
 
-*Architect systems that scale. Train models that generalize.*
+<!-- ANIMATED WAVING FOOTER BANNER (FIXED URL SYNTAX) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=110&section=footer&text=Architect%20systems%20that%20scale.%20Train%20models%20that%20generalize.&fontSize=18&fontColor=ffffff&fontAlignY=65" alt="Footer Banner" />
 
 </div>
