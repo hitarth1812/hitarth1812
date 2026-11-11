@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED CAPSULE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=200&section=header&text=Hitarth%20Khatiwala&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Researcher%20%C2%B7%20Systems%20Architect%20%C2%B7%20Co-Creator%20of%20ATLAS&descSize=18&descColor=a9b1d6&descAlignY=58&animation=fadeIn" alt="Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=200&section=header&text=Hitarth%20Khatiwala&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Researcher%20%C2%B7%20Deep%20Learning%20%26%20Distributed%20Systems&descSize=18&descColor=a9b1d6&descAlignY=58&animation=fadeIn" alt="Header Banner" />
 
 <!-- DYNAMIC TYPING TERMINAL -->
 <a href="https://github.com/hitarth1812">
