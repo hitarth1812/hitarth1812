@@ -1,18 +1,23 @@
 <div align="center">
 
-<!-- ANIMATED CAPSULE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=200&section=header&text=Hitarth%20Khatiwala&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Researcher%20%C2%B7%20Deep%20Learning%20%26%20Distributed%20Systems&descSize=18&descColor=a9b1d6&descAlignY=58&animation=fadeIn" alt="Header Banner" />
+<h1>Hitarth Khatiwala</h1>
 
-<!-- DYNAMIC TYPING TERMINAL -->
+<p>
+  <b>AI/ML Researcher &nbsp;·&nbsp; Deep Learning &amp; Distributed Systems</b><br/>
+  <code>BTech AI/ML @ CSPIT, CHARUSAT</code> &nbsp;•&nbsp; <code>BS Data Science &amp; Applications @ IIT Madras</code>
+</p>
+
+<!-- DYNAMIC TYPING TERMINAL (CALIBRATED WIDTH & CHARACTER COUNT — ZERO CLIPPING) -->
 <a href="https://github.com/hitarth1812">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=%3E+Researching+State-Space+Models+(Mamba)+for+Video+Deepfake+Forensics+@+SVNIT;%3E+Architecting+ATLAS+%E2%80%94+Distributed+Engineering-Intelligence+Systems+in+Go;%3E+Lead+Author+%40+ISBM+2026+(Springer+Nature)+%C2%B7+Dual+Degree+(CHARUSAT+%2B+IIT+Madras);%3E+End-to-End+Execution%3A+Dataset+Design+%E2%86%92+Custom+Loss+%E2%86%92+Training+%E2%86%92+Cloud+IaC" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=760&height=45&lines=State-Space+Models+(Mamba)+%C2%B7+Video+Forensics+@+SVNIT;Architecting+ATLAS+%C2%B7+Distributed+Go+Microservices;Lead+Author+@+ISBM+2026+(Springer+Nature);Dataset+Design+%E2%86%92+Architecture+%E2%86%92+Training+%E2%86%92+Cloud+IaC" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- CORE CREDENTIALS & LINKS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/hitarth-khatiwala-926b69318"><img src="https://img.shields.io/badge/LinkedIn-Hitarth_Khatiwala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/hitarth1812"><img src="https://img.shields.io/badge/GitHub-hitarth1812-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://huggingface.co/hitarth1812"><img src="https://img.shields.io/badge/Hugging_Face-hitarth1812-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/></a>
   <a href="mailto:hitarthkhatiwala@gmail.com"><img src="https://img.shields.io/badge/Contact-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=hitarth1812&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Views"/>
@@ -40,32 +45,17 @@ Concurrent Dual Degree:
   ├─ BTech in AI & ML        ──► CSPIT, CHARUSAT
   └─ BS in Data Science      ──► IIT Madras
 
-Engineering & Research Domains:
-  ├─ [Track 01 · AI/ML Research]   State-Space Models (Mamba) · Video Forensics · Medical CV · Clinical NLP
-  └─ [Track 02 · Systems & Infra]  Staged Go Microservices · Zero-Trust AWS KMS/IaC · Deterministic AST Gates
-```
-
-### Research & Engineering Ecosystem
-
-```mermaid
-flowchart LR
-    ROOT(("Hitarth Khatiwala"))
-
-    ROOT --> DL["AI / ML Research"]
-    ROOT --> SYS["Systems & Cloud Infra"]
-
-    subgraph Track_1 ["Deep Learning & Forensics"]
-        DL --> MAMBA["SVNIT Research<br/>Mamba Video Forensics"]
-        DL --> XRAY["ChestX-ray14<br/>EffNet + ASL + GradCAM"]
-        DL --> GAN["Plant SR<br/>RRDB ESRGAN + PatchGAN"]
-        DL --> BERT["ISBM 2026 Springer<br/>Fine-Tuned BERT NLP"]
-    end
-
-    subgraph Track_2 ["Distributed Systems & Tooling"]
-        SYS --> ATLAS["ATLAS Org<br/>Go + AWS KMS + Terraform"]
-        SYS --> AIGATE["AI-Gate Engine<br/>Sub-Second AST & Secret Gate"]
-        SYS --> ARKA["Arka Energy Nexus<br/>Django REST + React ESG"]
-    end
+Engineering & Research Topology:
+  ├─ [Track 01 · AI/ML Research]
+  │   ├─ SVNIT Research      ──► Mamba SSMs for Spatio-Temporal Video Forgery Detection
+  │   ├─ ISBM 2026 Springer  ──► Fine-Tuned BERT Clinical NLP (Lead Author)
+  │   ├─ Medical Imaging     ──► ChestX-ray14 (EffNet-B0 + Sqrt-ASL + GradCAM · 0.8114 AUC)
+  │   └─ Generative Vision   ──► Plant Super-Resolution (RRDB ESRGAN + PatchGAN + 8x TTA)
+  │
+  └─ [Track 02 · Distributed Systems & Tooling]
+      ├─ ATLAS Platform      ──► Staged Go Microservices + AWS KMS/Secrets + Terraform IaC
+      ├─ AI-Gate Engine      ──► Sub-Second AST, Secret & Dependency Gate for AI Agents/CI
+      └─ Arka Energy Nexus   ──► Full-Stack ESG & Carbon Auditing Platform (Django + React)
 ```
 
 ---
@@ -214,7 +204,6 @@ flowchart LR
 
 <div align="center">
 
-<!-- ROW 1: RELIABLE STREAK STATS + SUMMARY STATS CARD -->
 <picture>
   <img height="175" src="https://streak-stats.demolab.com/?user=hitarth1812&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </picture>
@@ -224,7 +213,6 @@ flowchart LR
 
 <br/>
 
-<!-- ROW 2: LANGUAGE DISTRIBUTION + COMMIT VELOCITY GRAPH -->
 <picture>
   <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hitarth1812&theme=tokyonight" alt="Top Languages by Repo" />
 </picture>
@@ -234,7 +222,6 @@ flowchart LR
 
 <br/>
 
-<!-- ROW 3: FULL-WIDTH CONTRIBUTION TIMELINE -->
 <picture>
   <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hitarth1812&theme=tokyonight" alt="Contribution Timeline" />
 </picture>
@@ -247,6 +234,6 @@ flowchart LR
 
 **Open to:** Deep Learning Research Collaborations · Applied ML & Distributed Systems Roles · State-Space & Forensics Discussions
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b26&height=110&section=footer&text=Architect%20systems%20that%20scale.%20Train%20models%20that%20generalize.&fontSize=18&fontColor=a9b1d6&fontAlignY=65" alt="Footer Banner" />
+*Architect systems that scale. Train models that generalize.*
 
 </div>
