@@ -22,68 +22,61 @@
 
 ---
 
-## ⚡ `neofetch --engineer hitarth`
-
-<table>
-<tr>
-<td width="58%" valign="top">
+## `neofetch --engineer hitarth`
 
 ```yaml
 OS:        HitarthOS v2026.11 (x86_64 / CUDA 12.x)
 Host:      Surat, Gujarat, India
 Kernel:    Deep Learning Research & Distributed Go Backends
 
-Ventures & Research:
-  - ATLAS (Organization): Co-Creator & Lead Systems Architect
-  - SVNIT (Research):     AI/ML Research Intern (Video Forensics)
+Active Ventures & Research:
+  ├─ ATLAS (Co-Founded Org)  ──► Lead Systems Architect (Go, AWS KMS, Secrets Manager, Terraform)
+  └─ SVNIT (Research Intern) ──► Video Deepfake Forensics via State-Space Models (Mamba)
 
 Previous Experience:
-  - Dezai AI:             Backend Developer Intern (Go, FastAPI, AWS)
+  └─ Dezai AI                ──► Backend Developer Intern (Go, Python, FastAPI, AWS)
 
-Education (Concurrent Dual Degree):
-  - BTech in AI & ML      @ CSPIT, CHARUSAT
-  - BS in Data Science    @ IIT Madras
+Concurrent Dual Degree:
+  ├─ BTech in AI & ML        ──► CSPIT, CHARUSAT
+  └─ BS in Data Science      ──► IIT Madras
 
-Primary Focus:
-  - State-Space Models (Mamba / Vision Mamba)
-  - Spatio-Temporal & Multimodal Deepfake Forensics
-  - High-Throughput Go Microservices & Cloud Security (KMS/IaC)
-  - Deterministic Guardrails for Autonomous Coding Agents
+Engineering & Research Domains:
+  ├─ [Track 01 · AI/ML Research]   State-Space Models (Mamba) · Video Forensics · Medical CV · Clinical NLP
+  └─ [Track 02 · Systems & Infra]  Staged Go Microservices · Zero-Trust AWS KMS/IaC · Deterministic AST Gates
 ```
 
-</td>
-<td width="42%" valign="top">
-
-### 🏛️ Engineering & Research Topology
+### Research & Engineering Ecosystem
 
 ```mermaid
-graph TD
-    A[Raw Multimodal Telemetry] --> B(Mamba / Vision Backbones)
-    B --> C{Custom Optimization}
-    C -->|Sqrt-Scaled ASL / GAN| D[Explainable AI · GradCAM]
-    C -->|AST & Static Gates| E[AI-Gate Engine]
-    D --> F[ATLAS Go Microservices]
-    E --> F
-    F --> G[(AWS KMS · Terraform IaC)]
+flowchart LR
+    ROOT(("Hitarth Khatiwala"))
+
+    ROOT --> DL["AI / ML Research"]
+    ROOT --> SYS["Systems & Cloud Infra"]
+
+    subgraph Track_1 ["Deep Learning & Forensics"]
+        DL --> MAMBA["SVNIT Research<br/>Mamba Video Forensics"]
+        DL --> XRAY["ChestX-ray14<br/>EffNet + ASL + GradCAM"]
+        DL --> GAN["Plant SR<br/>RRDB ESRGAN + PatchGAN"]
+        DL --> BERT["ISBM 2026 Springer<br/>Fine-Tuned BERT NLP"]
+    end
+
+    subgraph Track_2 ["Distributed Systems & Tooling"]
+        SYS --> ATLAS["ATLAS Org<br/>Go + AWS KMS + Terraform"]
+        SYS --> AIGATE["AI-Gate Engine<br/>Sub-Second AST & Secret Gate"]
+        SYS --> ARKA["Arka Energy Nexus<br/>Django REST + React ESG"]
+    end
 ```
-
-<div align="center">
-  <sub><i>From mathematical loss formulation to zero-trust cloud deployment.</i></sub>
-</div>
-
-</td>
-</tr>
-</table>
 
 ---
 
-## 📜 Peer-Reviewed Publication
+## Peer-Reviewed Publication
 
 <table>
   <tr>
     <td width="100%">
       <img align="right" src="https://img.shields.io/badge/Springer_Nature-Proceedings-00599C?style=for-the-badge&logo=springer&logoColor=white" alt="Springer Nature" />
-      <h3>🧠 Mental Health Analysis using Fine-Tuned BERT-Based Text Classification Model</h3>
+      <h3>Mental Health Analysis using Fine-Tuned BERT-Based Text Classification Model</h3>
       <p>
         <b>Lead Author</b> &nbsp;•&nbsp; <i>5th World Conference on Information Systems for Business Management (<b>ISBM 2026</b>), Bangkok, Thailand</i><br/>
         Engineered a domain-adapted transformer pipeline for nuanced psychological state classification from unstructured text, addressing class skewness and contextual ambiguity in clinical NLP.
@@ -99,12 +92,12 @@ graph TD
 
 ---
 
-## 🔭 Flagship Initiatives & Research in Flight
+## Flagship Initiatives & Research in Flight
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 ATLAS &nbsp;<img src="https://img.shields.io/badge/Co--Founded%20Org-7aa2f7?style=flat-square" /> <img src="https://img.shields.io/badge/Status-Active%20Build-ebb626?style=flat-square" /></h3>
+      <h3>ATLAS &nbsp;<img src="https://img.shields.io/badge/Co--Founded%20Org-7aa2f7?style=flat-square" /> <img src="https://img.shields.io/badge/Status-Active%20Build-ebb626?style=flat-square" /></h3>
       <p><b>Distributed Engineering-Intelligence Platform & Backend Ecosystem</b></p>
       <ul>
         <li><b>Organization & Vision:</b> Co-created independent engineering organization building high-security developer & system intelligence infrastructure.</li>
@@ -117,10 +110,10 @@ graph TD
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎞️ Video Deepfake Forensics &nbsp;<img src="https://img.shields.io/badge/SVNIT%20Research-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/Status-Active%20Research-2ea44f?style=flat-square" /></h3>
+      <h3>Video Deepfake Forensics &nbsp;<img src="https://img.shields.io/badge/SVNIT%20Research-2ea44f?style=flat-square" /> <img src="https://img.shields.io/badge/Status-Active%20Research-2ea44f?style=flat-square" /></h3>
       <p><b>State-Space Models (Mamba) for Spatio-Temporal Forgery Detection</b></p>
       <ul>
-        <li><b>Research Problem:</b> Standard ViTs suffer from quadratic complexity $O(N^2)$ across long video sequences, missing subtle inter-frame manipulation artifacts.</li>
+        <li><b>Research Problem:</b> Standard ViTs suffer from quadratic complexity across long video sequences, missing subtle inter-frame manipulation artifacts.</li>
         <li><b>Mamba Backbone:</b> Designing linear-time selective State-Space Models (SSMs) to track long-range temporal and frequency-domain inconsistencies across compressed video streams.</li>
         <li><b>Forensic Generalization:</b> Evaluating cross-manipulation robustness against unseen diffusion and GAN-based face-swapping/reenactment generators.</li>
       </ul>
@@ -133,13 +126,13 @@ graph TD
 
 ---
 
-## 🚀 Engineered Systems & Production Repositories
+## Engineered Systems & Production Repositories
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [AI-Gate](https://github.com/hitarth1812)
+### [AI-Gate](https://github.com/hitarth1812)
 **Sub-second static analysis & deterministic code-review engine for developers and AI agents.**
 - **Zero-Bloat Core:** Single-file, high-concurrency engine delivering **sub-second feedback loops** across `Python`, `Go`, and `JavaScript` codebases.
 - **Security & Supply-Chain Auditing:** Automated hardcoded secret detection, dependency vulnerability scanning, and structural AST verification.
@@ -153,14 +146,14 @@ graph TD
 </td>
 <td width="50%" valign="top">
 
-### 🩻 [X-Ray Pathology Classifier](https://github.com/hitarth1812/X-ray-pathology-classifier)
+### [X-Ray Pathology Classifier](https://github.com/hitarth1812/X-ray-pathology-classifier)
 **Multi-label thoracic disease diagnosis across 20 pathologies (NIH ChestX-ray14).**
 - **Model Architecture:** `EfficientNet-B0` feature extractor paired with a custom two-layer MLP classification head.
 - **Extreme Imbalance Mitigation:** Engineered Asymmetric Loss with square-root positive weight scaling (`√pos_weight`) to overcome a **6,815×** class imbalance.
 - **Clinical Explainability:** Two-phase transfer learning (`AMP` on Tesla T4) reaching **0.8114 Val Macro-AUC** with localized **GradCAM** heatmaps.
 
 <p>
-  <a href="https://huggingface.co/spaces/hitarth1812/chest-xray-classifier"><img src="https://img.shields.io/badge/🤗_Live_Demo-HF_Spaces-FFD21E?style=for-the-badge&logoColor=black" height="24"/></a>
+  <a href="https://huggingface.co/spaces/hitarth1812/chest-xray-classifier"><img src="https://img.shields.io/badge/Live_Demo-HF_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="24"/></a>
   <a href="https://github.com/hitarth1812/X-ray-pathology-classifier"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github" height="24"/></a>
 </p>
 
@@ -169,7 +162,7 @@ graph TD
 <tr>
 <td width="50%" valign="top">
 
-### 🌿 [Plant Super-Resolution GAN](https://github.com/hitarth1812/Plants_Super_Resolution)
+### [Plant Super-Resolution GAN](https://github.com/hitarth1812/Plants_Super_Resolution)
 **ESRGAN perceptual super-resolution pipeline built for high-frequency botanical recovery.**
 - **Generator / Discriminator:** Deep Residual-in-Residual Dense Block (**RRDB**, 16–23 blocks) generator coupled with a PatchGAN discriminator.
 - **Perceptual Optimization:** Multi-objective loss combining L1 pixel fidelity, VGG-19 feature activation loss, and tuned adversarial weight (`λ = 0.001`).
@@ -183,7 +176,7 @@ graph TD
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [Arka Energy Nexus](https://github.com/hitarth1812/arka-energy-nexus)
+### [Arka Energy Nexus](https://github.com/hitarth1812/arka-energy-nexus)
 **Full-stack enterprise energy auditing & automated ESG intelligence platform.**
 - **AI Audit Parser:** Intelligent ingestion pipeline that normalizes complex, pivot-formatted Excel utility spreadsheets into structured relational models.
 - **Carbon Accounting Engine:** Automated Scope-2 emissions calculator calibrated to India's CEA grid factor (**0.82 kg CO₂/kWh**).
@@ -202,7 +195,7 @@ graph TD
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 <div align="center">
 
@@ -217,7 +210,7 @@ graph TD
 
 ---
 
-## 📊 GitHub Telemetry & Contribution Velocity
+## GitHub Telemetry & Contribution Velocity
 
 <div align="center">
 
