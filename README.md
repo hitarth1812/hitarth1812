@@ -251,7 +251,6 @@ pip install aigate-lite
 </tr>
 </table>
 
-> **Also:** **[Crack Detection](https://github.com/hitarth1812/Crack-Detection)**: `EfficientNet-B0` + `Grad-CAM` concrete crack classification, **99.72% test accuracy**.
 
 ---
 
